@@ -1,0 +1,13 @@
+# Site Settings
+title: Midnight Book Club
+email:
+description: > 
+    Welcome to Midnight Book Club
+baseurl: ""
+url: "www.midnightbook.club"
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
