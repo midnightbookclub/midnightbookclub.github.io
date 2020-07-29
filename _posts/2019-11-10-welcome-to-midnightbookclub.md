@@ -1,16 +1,68 @@
 ---
 layout: post
-title:  "Midnight Book Club Post 1"
-date:   2019-11-10
-categories: jekyll update
+title:  "Testimony & Social Media"
+date:   2020-04-10
 ---
-bro
 
+Polarizing reports around coronavirus & its consequences are puzzling. Though news & information received are inherently biased, foundational beliefs (practically) remain axiomatic truths. _The sky is blue — isn’t it?_
 
+The existence of a virus, its potency and reproduction numbers are scientific facts, yet there is still uncertainty around coronavirus. Unfortunately, unlike other state of affairs, the uncertainty around the virus has clear, grave consequences to the world population. Whether the virus is dangerous or just a sensationalized bug, the world population requires the truth in order to understand public policy and make educated decisions. With such dire repercussions, many of wondered:
 
-Jekyll working on a code snippet.
-{% highlight java %}
-public helloWorld() {
-    System.out.println("This is dope. 🔥🔥🔥")
-}
-{% endhighlight %}
+_**Why is it so hard to get to the truth?**_
+
+One aspect around this open-ended question is the role of testimony in acquiring knowledge and how social media affects testimony. In the age of information, a lot of our knowledge comes from social media. We learn from other folk’s posts, tweets and shares. Sometimes content comes from a trustworthy source and other times it comes from sources with no reputation.
+
+There are many intricacies of our communication on social media; consequently, this effects on our ability to know. This post is broken down into two topics of discussion.
+
+1. How does testimony relate to knowledge?
+2. How does social media bend testimony?  
+
+## I. How does testimony relate to knowledge?
+
+Testimony is a necessary & practical epistemic source of knowledge. If a person’s knowledge was stripped bare to beliefs only acquired through his/her own senses, our collection of knowledge would be limited. Testimonial based beliefs are necessary for our day-to-day interactions. We trust the testimony of our loved ones when they tell us the weather outside and the testimony of experts when they diagnose our health, cars or computers. We use the testimony of street signs or google maps to validate our location and the testimony of the Lyft app when a car with a certain license plate has arrived. Testimony is a necessary tool that we use to approach and understand the world. We depend on each other for knowledge. You can’t do it all alone.
+Similarly, social media is a form of testimony that helps us form justified beliefs. I believe that if we take a deeper dive into understanding the role of testimony in acquiring knowledge, we can pinpoint some of the difficulties of reaching “truth”.
+
+Default Rule of Testimony (DR):
+>“If the speaker S asserts that p to the hearer H, then, under normal conditions, it is correct for H to accept (believe) S’s assertion, unless H has special reasons to object” (Adler).
+
+A key nuance to this definition of testimony is that there are “normal conditions” and no “special reasons to object.” Don’t believe everything you hear, right mom? There is some subtlety in forming justified beliefs from testimony. We judge speaker S’s trustworthiness and look for his/her reputation. We compare assertion p to the rest of our beliefs to determine if it’s consistent. We gauge the manner in how speaker S asserts p. Was it in an unusual way? There are intricacies with how we deal with testimony. Unfortunately these intricacies are compounded and overlooked within social media.
+
+## II. How social media affects testimony
+
+### The first nuance of social media is that we have much more fleeting attention spans online.
+
+When hearing a statement in person, we have the luxury to immediately understand context. We can ask for evidence or push for clarifying questions. We can judge verbal or non-verbal cues. For example, suppose you were to go to the doctor’s office for a diagnosis. In the process, you subconsciously validate the doctor with “normal conditions” and filter any “special reasons to object.” Is the doctor wearing a white coat? Is there a degree on the wall? Is the doctor too young? How come there weren’t any other patients in the waiting room? Why is the office in an abandoned building? We don’t blindly listen to the doctor’s testimony in person.
+
+However, our online experience is much different. We’re much more lackadaisical in verifying. And that is understandably so. We’re extremely distracted online and it clouds our judgement. We have the ability to digest oceans of content and waves of opinions; however it comes at the cost of a lower attention span. As a result, we constantly make quick, snap judgements on some doctor’s tweet. Maybe she wasn’t even an actual doctor at all. We deal with testimony different online.
+
+Unchecked testimony is not necessarily unique to social media. In person, we can still be inattentive or simply go through the motions; however, social media predisposes us to making crappier judgements. It doesn’t help with clickbait posts begging for our attention.
+
+A fleeting attention span not only clouds our ability to validate testimony, but also compels news sites, organizations and people to post clickbait & extreme content. Testimony on social media is different from testimony in person. Posts are curated, manufactured and filtered online. They are embellished and aggrandized for likes & internet points. A headline screams “90% of college students are alcoholics,” while the article details a questionnaire given to 10 college seniors during their last week after finals.
+
+Inattentiveness really isn't anybody's fault. Nobody expects a reader to be constantly vigilant. It's just important to realize that it's extremely difficult to be vigilant with an enormous amount of content that is sensationalized for your attention.
+
+### The second nuance of social media & testimony is assertion itself.
+
+To Charles Sanders Pierce, an assertion requires a commitment — taking some form of responsibility.
+
+>“This ingredient, the assuming of responsibility, which is so prominent in solemn assertion, must be present in every genuine assertion. For clearly, every assertion involves an effort to make the intended interpreter believe what is asserted, to which end a reason for believing it must be furnished” (Peirce 1934: 547).
+
+_**For example: “In n Out is on the corner of First and Market.”**_ 
+
+According to Pierce, speaker S is responsible for assertion p; he or she commits to the truth of p when asserting p. Commitment is integral to an assertion because it creates a relationship between speaker S and hearer H. For example, if I ask a stranger for directions and s/he responds that I am on First Street, s/he is now partly responsible for my sense of direction. By assertion, the stranger and I start a relationship—a bond between speaker and listener and the stranger is now accountable for misinformation. If p turns out to be false and I am actually on Second street, speaker S (the stranger) suffers some sort of consequence such as humiliation or a hit to his/her reputation.
+We use this pattern constantly with our every day interactions. It allows us to iterate on our judgements. Mistakes & lies force us to evaluate future assertions differently. 
+
+However, assertions are ambiguous on social media because it’s unclear if speaker S is responsible for a post or retweet.
+
+Though there might be some form of responsibility for a post, there is a lot of ambiguity surrounding sharing content—shares & retweets. Assertions have an associated truth value attached to it—a truth value that the asserter commits to. This opens a question: 
+
+_**Are posters committing to content they share or retweet?**_
+
+Sharing a post or retweeting is a vague form of testimony, because though the sharer is not the author of the content, it seems like s/he is endorsing the content without taking any commitment or responsibility for the assertion. It would be like choosing sides in an argument and then walking away completely unscathed if the argument doesn’t go your way. You’re at least responsible for an “I told you so.” We haven’t established any norms on social media to hold folks accountable for their shares and for this reason testimony is ambiguous online. 
+
+## So, why is it so hard to get to the truth?
+
+Well, one aspect to this question is the role of social media in acquiring knowledge. Our fleeting attention triggers more clickbait & sensational news, which in turn desensitizes our ability to validate and scrutinize. Moreover, social norms haven’t been established yet on posts / retweets. Are they assertions? What rules of testimony apply to online posts?
+
+We’re in a pivotal time where we get to decide how to deal with testimony online. Social norms and conventions will arise out of a need for clarity. I’m not exactly sure how we’ll get there, but I’m optimistic that we’ll find a way to get closer to the truth. After all, one of the mind’s deepest desires is to comprehend our chaotic world — to understand.
+
