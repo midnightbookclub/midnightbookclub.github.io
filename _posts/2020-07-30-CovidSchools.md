@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Covid-19 and the impact on schools"
+date:   2020-07-30
+---
+Background: With September quickly approaching, many schools have released decisions and guidelines on reopening. The goal of this week's discussion is to gain insights on the importance of an in-person education, our perspectives on the ramifications of education with coronavirus guidelines in place, and our insights for the impact coronavirus has had/will have on education.
+
+Some relevant articles:
+How schools are faring internationally after reopening, with many reporting an increase in infections as schools reopened - https://www.sciencemag.org/news/2020/07/school-openings-across-globe-suggest-ways-keep-coronavirus-bay-despite-outbreaks
+
+McKinsey report quantifying the economic consequences of lost learning in the US, with estimated losses to GDP up to $480 billion - https://www.mckinsey.com/industries/public-sector/our-insights/covid-19-and-student-learning-in-the-united-states-the-hurt-could-last-a-lifetime
+
+Do the consequences of staying at home outweigh the consequences of an in-person education? Being forced to stay at home has caused Italian children to develop unhealthy habits and lifestyles (see Economist_Unhealthy). Moreover, we see a damning effect in developing countries from Vietnam to India, especially on girls who are now forced into labor, abuse, and premature marriage with closed schools (see Economist_Girls).
