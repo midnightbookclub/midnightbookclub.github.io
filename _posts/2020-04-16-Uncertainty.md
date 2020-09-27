@@ -3,13 +3,46 @@ layout: post
 title:  "Uncertainty, Photons & Quasars"
 date:   2020-04-16
 ---
-bro
 
+## [Discussion Article](https://blogs.scientificamerican.com/observations/photons-quasars-and-the-possibility-of-free-will/)
 
+## Background & Context
 
-Jekyll working on a code snippet.
-{% highlight java %}
-public helloWorld() {
-    System.out.println("This is dope. 🔥🔥🔥")
-}
-{% endhighlight %}
+**Uncertainty**
+
+* Intro: Coin flipping and statistical randomness
+* Schrodinger Wave Equation
+    * Born interpretation - probability distribution, not charge distribution
+    * Half lives and non-deterministic radiation
+    * Copenhagen interpretation and the Heisenberg Uncertainty Principle
+    * Schrodinger's cat
+
+**Quasars**
+* Hubble constant and spacetime expansion
+* Cosmological redshift
+    * Parallax and standard candles (type 1A supernovae; variable stars)
+* Spectroscopy - Absorption and Emission Lines 
+    * HS review - electron transitions
+* Blackbody spectra
+* Active galactic nuclei and synchrotron radiation
+
+**Causality**
+* Electron superposition experiments (pdf)
+* Double slit experiment
+    * HS review: Wave-Particle duality and De Broglie wavelengths
+    * Photoelectric effect, wave-packets, quanta
+* Einstein Podolski Rosen paradox
+    * Bell inequalities and the violation of local realism
+* Quantum eraser experiment
+    * Delayed choice quantum eraser
+
+**Determinism / Fatalism**
+* Determinism: all events determined completely by existing causes
+    * Opposite is randomness & nondeterminism
+    * Contrasted with Free Will
+* Fatalism: An event is destined to occur no matter what you do
+    * Different from determinism. Determinism is that the laws of nature combined with the universe’s initial state is enough to determine the state of the universe at any point in the future.
+    * Fatalism is that a future proposition has a determined truth value. 
+    * Determinism implies fatalism, but you can be a fatalist WITHOUT being a determinist
+        * For example, you can believe in God
+        * It’s impossible to determine truth value from laws of nature & initial state
