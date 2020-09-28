@@ -35,14 +35,3 @@ date:   2020-04-16
     * Bell inequalities and the violation of local realism
 * Quantum eraser experiment
     * Delayed choice quantum eraser
-
-**Determinism / Fatalism**
-* Determinism: all events determined completely by existing causes
-    * Opposite is randomness & nondeterminism
-    * Contrasted with Free Will
-* Fatalism: An event is destined to occur no matter what you do
-    * Different from determinism. Determinism is that the laws of nature combined with the universe’s initial state is enough to determine the state of the universe at any point in the future.
-    * Fatalism is that a future proposition has a determined truth value. 
-    * Determinism implies fatalism, but you can be a fatalist WITHOUT being a determinist
-        * For example, you can believe in God
-        * It’s impossible to determine truth value from laws of nature & initial state
